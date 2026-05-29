@@ -106,4 +106,4 @@ The APK was generated using Expo EAS Build.
 
 ## Author
 
-Yash Pandey
+Yash Wardhan Pandey
